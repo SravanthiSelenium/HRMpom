@@ -1,0 +1,10 @@
+2019-06-30 10:09:39,909 [main] INFO com.HRMpom.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-30 10:13:07,554 [main] INFO com.HRMpom.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-30 10:32:19,093 [main] INFO com.HRMpom.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-30 10:50:29,177 [main] INFO com.HRMpom.testcasescripts.LoginPageTest - initialization started
+2019-06-30 10:50:42,057 [main] INFO com.HRMpom.testcasescripts.LoginPageTest - title validation started
+2019-06-30 10:50:42,702 [main] INFO com.HRMpom.testcasescripts.LoginPageTest - login screenshot captured
+2019-06-30 10:51:03,938 [main] INFO com.HRMpom.testcasescripts.HomePageTest - homepage screenshot captured
+2019-06-30 10:52:53,272 [main] INFO com.HRMpom.testcasescripts.LoginPageTest - initialization started
+2019-06-30 10:53:05,805 [main] INFO com.HRMpom.testcasescripts.LoginPageTest - title validation started
+2019-06-30 10:53:06,443 [main] INFO com.HRMpom.testcasescripts.LoginPageTest - login screenshot captured
