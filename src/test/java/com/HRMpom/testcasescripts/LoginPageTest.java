@@ -32,6 +32,7 @@ public class LoginPageTest extends Baseclass {
 	String configurepath=System.getProperty("D:\\seleniumworkspace\\workspace1\\HRMpom\\src\\main\\java\\log4j.properties");
 	public LoginPageTest() throws IOException {
 		super();
+		System.out.println("new change");
 		// TODO Auto-generated constructor stub
 	}
 
